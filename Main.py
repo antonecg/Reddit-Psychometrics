@@ -148,9 +148,9 @@ def openscore(entry):
 
 while True:
     person = input('Enter code: ')
-    reddit = praw.Reddit(client_id='QiF3f5b59NCviQ',
-                         client_secret='hdn8vB1obETJkFC0xumHv1jDEWU',
-                         user_agent='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.1 Safari/603.1.30',)
+    reddit = praw.Reddit(client_id='xxxxx,
+                         client_secret=xxxx
+                         user_agent=xxxx
    
     ltime =[]
     lnscore = []
